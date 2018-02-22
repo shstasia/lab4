@@ -14,6 +14,7 @@ void main(void)
 	SetConsoleOutputCP(1251);
 
 	cout << "Ім'я: Шароградська Анастасія" << endl;
+	cout << "Дата народження: 30.10.1997" << endl;
 	system("pause");
 
 }
