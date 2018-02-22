@@ -2,10 +2,19 @@
 //
 
 #include "stdafx.h"
+#include "iostream"
+#include<locale>
+#include "windows.h"
+using namespace std;
 
 
-int main()
+void main(void)
 {
-    return 0;
+	SetConsoleCP(1251);
+	SetConsoleOutputCP(1251);
+
+	cout << "Ім'я: Шароградська Анастасія" << endl;
+	system("pause");
+
 }
 
