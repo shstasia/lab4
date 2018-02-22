@@ -72,6 +72,8 @@ void main(void)
 	
 
 	system ("pause");
+	cout << "Улюблений письменник: Ельчін Сафарлі " << endl;
+	system("pause");
 
 }
 
