@@ -23,6 +23,7 @@ void main(void)
 	cout << "”люблене м≥сто: Ћьв≥в " << endl;
 	cout << "пам'€тки Ћьвова " << endl;
 	cout << "улюблен≥ м≥сц€: " << endl;
+	cout << "копальн€" << endl;
 	system("pause");
 
 }
