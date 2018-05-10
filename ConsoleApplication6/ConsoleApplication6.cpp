@@ -31,6 +31,7 @@ void main(void)
 	cout << "подивитись як добувають каву" << endl;
 	system("pause");
 	cout << "Високий замок" << endl;
+	cout << "Театр опери та балету" << endl;
 	
 
 	system ("pause");
