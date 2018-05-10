@@ -65,6 +65,10 @@ void main(void)
 	cout << "випити смачну каву" << endl;
 	cout << "подивитись як добувають каву" << endl;
 	system("pause");
+	cout << "Високий замок" << endl;
+	
+
+	system ("pause");
 
 }
 
