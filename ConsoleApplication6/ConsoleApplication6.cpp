@@ -58,6 +58,7 @@ void main(void)
 	cout <<  "на урочистий зах≥д : веч≥рню сукню" << endl;
 	cout << "пам'€тки Ћьвова " << endl;
 	cout << "улюблен≥ м≥сц€: " << endl;
+	cout << "копальн€" << endl;
 	system("pause");
 
 }
