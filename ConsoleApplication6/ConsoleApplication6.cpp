@@ -67,6 +67,7 @@ void main(void)
 	system("pause");
 	cout << "Високий замок" << endl;
 	cout << "Театр опери та балету" << endl;
+	cout << "дворик загублених іграшок" << endl;
 	
 
 	system ("pause");
