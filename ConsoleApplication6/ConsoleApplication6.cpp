@@ -5,6 +5,7 @@
 #include "iostream"
 #include<locale>
 #include "windows.h"
+
 using namespace std;
 
 
@@ -41,7 +42,7 @@ void main(void)
 	cout << "”люблена машина: BMW M5 E60(л≥с≥чка)" << endl;
 	cout << "”люблений н≥чний клуб: Skyroom" << endl;
 	cout << "—тиль од€гу: в≥д лЇд≥ до гопн≥ка(в зав≥с≥мост≥ в≥д настрою)" << endl;
-
+	cout << "в ун≥верситет:класичний стиль од€гу" << endl;
 	
 	system("pause");
 
