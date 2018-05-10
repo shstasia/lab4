@@ -24,6 +24,7 @@ void main(void)
 	cout << "пам'ятки Львова " << endl;
 	cout << "улюблені місця: " << endl;
 	cout << "копальня" << endl;
+	cout << "дворець Потоцьких" << endl;
 	system("pause");
 
 }
