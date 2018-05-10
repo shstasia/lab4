@@ -33,6 +33,7 @@ void main(void)
 	cout << "Високий замок" << endl;
 	cout << "Театр опери та балету" << endl;
 	cout << "дворик загублених іграшок" << endl;
+	cout << "Ратуша" << endl;
 	
 
 	system ("pause");
