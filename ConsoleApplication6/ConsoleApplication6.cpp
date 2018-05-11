@@ -27,6 +27,7 @@ void main(void)
 	cout << "копальня" << endl;
 	cout << "дворець Потоцьких" << endl;
 
+	cout << "випити смачну каву" << endl;
 	system("pause");
 
 }
