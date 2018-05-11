@@ -23,6 +23,7 @@ void main(void)
 	cout << "Серіал 4: Кости " << endl;
 	cout << "дивлюсь майже рік" << endl;
 	cout << "підсадила мама" << endl;
+	cout << "цікавий сюжет" << endl;
 	system("pause");
 
 }
