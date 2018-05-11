@@ -21,6 +21,7 @@ void main(void)
 	cout << "Серіал 2: улица " << endl;
 	cout << "Серіал 3: Ривердейл " << endl;
 	cout << "Серіал 4: Кости " << endl;
+	cout << "дивлюсь майже рік" << endl;
 	system("pause");
 
 }
