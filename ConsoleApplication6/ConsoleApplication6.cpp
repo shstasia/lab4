@@ -11,6 +11,7 @@ using namespace std;
 
 void main(void)
 {
+	//etlocale(LC_ALL, "ukr");
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
@@ -60,6 +61,7 @@ void main(void)
 	cout << "улюблені місця: " << endl;
 	cout << "копальня" << endl;
 	cout << "дворець Потоцьких" << endl;
+
 	system("pause");
 
 }
