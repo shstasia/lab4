@@ -25,6 +25,7 @@ void main(void)
 	cout << "п≥дсадила мама" << endl;
 	cout << "ц≥кавий сюжет" << endl;
 	cout << "дивлюсь 2 м≥с€ць" << endl;
+	cout << "подивилась 7 сезон≥в з 14" << endl;
 	system("pause");
 
 }
