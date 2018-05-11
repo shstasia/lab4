@@ -24,6 +24,7 @@ void main(void)
 	cout << "дивлюсь майже р≥к" << endl;
 	cout << "п≥дсадила мама" << endl;
 	cout << "ц≥кавий сюжет" << endl;
+	cout << "дивлюсь 2 м≥с€ць" << endl;
 	system("pause");
 
 }
